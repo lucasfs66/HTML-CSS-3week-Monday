@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+h2 {
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 360%;
+    padding: 2em 2em;
+}
+.ball-form {
+ 
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+
+.photos {
+ display: grid;
+ row-gap: 2em;
+}
+
+.header {
+    background-color: #000000;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    
+
+}
+#gallery {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+
+img {
+    max-width: 40vw;
+    max-height: 20vh;
+    border-radius: 15%;
+    margin: 0 4em;
+
+}
